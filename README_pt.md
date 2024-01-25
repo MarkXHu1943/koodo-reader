@@ -5,7 +5,7 @@
 </div>
 
 <div align="center" >
-  <img src="https://i.loli.net/2021/07/30/ZKNMmz54Q3uqlrW.png" width="96px" height="96px"/>
+  <img src="https://dl.960960.xyz/screenshots/logo.png" width="96px" height="96px"/>
 </div>
 
 <h1 align="center">
@@ -24,15 +24,20 @@
 ## Pré-visualizar
 
 <div align="center">
-  <img src="https://i.loli.net/2021/08/08/I37WPYFJcC1jltn.png" >
-  <img src="https://i.loli.net/2021/08/08/G7WvUQFTrEpSCKg.png" >
+  <br/>
+  <kbd><img src="https://dl.960960.xyz/screenshots/1.png" width="800px"></kbd>
+  <br/>
+  <br/>
+  <kbd><img src="https://dl.960960.xyz/screenshots/5.png" width="800px"></kbd>
+  <br/>
+  <br/>
 </div>
 
 ## Características
 
 - Formatos suportados:
   - EPUB (**.epub**)
-  - Documento scaneados (**.pdf**, **.djvu**)
+  - PDF (**.pdf**)
   - Formato sem DRM (**.mobi**) e Kindle (**.azw3**, **.azw**)
   - Texto puro (**.txt**)
   - FictionBook (**.fb2**)
@@ -93,18 +98,29 @@ flatpak run io.github.troyeguo.koodo-reader
 
 <div align="center">
   <b>Modo em lista</b>
-  <img src="https://i.loli.net/2021/08/08/JyNHfThMs184Um2.png" >
+  <br/>
+  <br/>
+  <kbd><img src="https://dl.960960.xyz/screenshots/2.png" width="800px"></kbd>
+  <br/>
+  <br/>
   <b>Modo de capa</b>
-  <img src="https://i.loli.net/2021/08/08/76zkDEAobd4qsmR.png" >
+  <br/>
+  <br/>
+  <kbd><img src="https://dl.960960.xyz/screenshots/3.png" width="800px"></kbd>
+  <br/>
+  <br/>
   <b>Opções de leitura</b>
-  <img src="https://i.loli.net/2021/08/08/LeEN9gnOvFmfVWA.png" >
-  <b>Cópia de segurança e restauração</b>
-  <img src="https://i.loli.net/2021/08/08/aRIAiYT2dGJQhC1.png" >
+  <br/>
+  <br/>
+  <kbd><img src="https://dl.960960.xyz/screenshots/6.png" width="800px"></kbd>
+  <br/>
+  <br/>
   <b>Modo escuro e cores do tema</b>
-  <img src="https://i.loli.net/2021/08/08/ynqUNpX93xZefdw.png" >
-  <b>Gerenciamento de notas</b>
-  <img src="https://i.loli.net/2021/08/09/sARQBoefvGklHwC.png" >
-
+  <br/>
+  <br/>
+  <kbd><img src="https://dl.960960.xyz/screenshots/4.png" width="800px"></kbd>
+  <br/>
+  <br/>
 </div>
 
 </div>
